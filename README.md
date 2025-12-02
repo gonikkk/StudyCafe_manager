@@ -69,6 +69,3 @@ code/
 │
 ├── nucleo_f411re_uart2_printf_uart.zip
 ├── studycafe_bluetooth.zip
-│
-├── README.md
-└── studycafe.pptx
