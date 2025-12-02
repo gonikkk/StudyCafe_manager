@@ -49,26 +49,25 @@
 
 ## 파일 구조
 code/
-├── iot_client_Bluetooth/
-│   ├── build_bt.sh
-│   ├── iot_client_bluetooth
-│   └── iot_client_bluetooth.c
-│
-├── iot_server/
-│   ├── Makefile
-│   ├── idpasswd.txt
-│   ├── iot_client
-│   ├── iot_client.c
-│   ├── iot_server
-│   └── iot_server.c
-│
-├── sql_client/
-│   ├── Makefile
-│   ├── iot_client_sensor_device
-│   └── iot_client_sensor_device.c
-│
-├── nucleo_f411re_uart2_printf_uart.zip
-├── studycafe_bluetooth.zip
-│
-├── README.md
-└── studycafe.pptx
+    iot_client_Bluetooth/
+        build_bt.sh
+        iot_client_bluetooth
+        iot_client_bluetooth.c
+
+    iot_server/
+        Makefile
+        idpasswd.txt
+        iot_client
+        iot_client.c
+        iot_server
+        iot_server.c
+
+    sql_client/
+        Makefile
+        iot_client_sensor_device
+        iot_client_sensor_device.c
+
+    nucleo_f411re_uart2_printf_uart.zip
+    studycafe_bluetooth.zip
+    README.md
+    studycafe.pptx
