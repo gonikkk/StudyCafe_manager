@@ -49,6 +49,7 @@
 
 ## 파일 구조
 code/
+
     iot_client_Bluetooth/
         build_bt.sh
         iot_client_bluetooth
